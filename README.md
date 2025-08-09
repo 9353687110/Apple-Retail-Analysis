@@ -131,7 +131,7 @@ This project demonstrates the power of SQL for data-driven decision-making in a 
 🚀 Impact:
 These insights empower businesses to enhance sales strategies, improve product quality, and provide better customer support, leading to increased profitability and customer loyalty.💡
 
-       Thank you for exploring this project! 💙
+### Thank you for exploring this project! 💙
 #### 🔗Stay connected & explore more SQL projects!🚀
 
 
