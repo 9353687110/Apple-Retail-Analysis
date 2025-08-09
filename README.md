@@ -11,4 +11,13 @@ By leveraging SQL, this project provides solutions to real-world business proble
 ✅ Evaluating store performance based on sales and claim ratios.  
 ✅ Understanding the relationship between product pricing and warranty claims.  
 
+## 🎯 Project Objectives
+
+This project analyzes Apple retail sales and warranty data to solve key business challenges using advanced SQL. It provides data-driven insights to optimize sales, improve product quality, and enhance customer service.
+
+🔑 **Key Business Problems Solved:**  
+✅ Sales & Inventory Optimization – Identifies top-selling products, sales trends, and high-performing stores.  
+✅ Store & Business Growth Analysis – Tracks year-over-year sales growth and regional store performance.  
+✅ Product Quality & Warranty Insights – Detects high-claim products, early failures, and defect trends.  
+✅ Customer Service Improvement – Analyzes warranty response times and repair costs to enhance service.  
 
