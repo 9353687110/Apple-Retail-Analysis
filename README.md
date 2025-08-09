@@ -38,5 +38,14 @@ This dataset enables deep business analysis, helping to uncover sales trends, pr
 
 Your database includes the following entities and relationships based on your queries:
 
+## 📌 Entities & Attributes:
+
+📌 **Products** (product_id, product_name, category_id, price, launch_date)  
+📌 **Categories** (category_id, category_name)  
+📌 **Stores** (store_id, store_name, country)  
+📌 **Sales** (sale_id, store_id, product_id, sale_date, quantity)  
+📌 **Warranty** (claim_id, sale_id, claim_date, repair_status)  
+
+
 
 
