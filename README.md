@@ -34,5 +34,10 @@ This project utilizes a large-scale Apple retail dataset containing over 1 milli
 
 This dataset enables deep business analysis, helping to uncover sales trends, product performance issues, and customer service insights.
 
+🔗 Entity-Relationship (ER) Diagram
 
+Your database includes the following entities and relationships based on your queries:
+
+---
+![C:\Users\hp\Downloads](relative-or-absolute-path-to-image)
 
