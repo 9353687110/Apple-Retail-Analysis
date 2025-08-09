@@ -83,19 +83,33 @@ Your database includes the following entities and relationships based on your qu
 ✔️ Write a query to calculate the monthly running total of sales for each store over the past four years and compare trends during this period.
 
 ## 🏆 Skills Highlighted in This Project
-✅ Data Extraction & Transformation – Writing complex SQL queries to extract meaningful insights.
-✅ Advanced Joins – Using INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN for data integration.
-✅ Aggregation & Grouping – Implementing GROUP BY, HAVING, and SUM() to summarize data.
-✅ Window Functions – Utilizing RANK(), DENSE_RANK(), ROW_NUMBER(), LAG(), and LEAD().
-✅ Date & Time Analysis – Applying EXTRACT(), TO_CHAR(), and INTERVAL for trend analysis.
-✅ Performance Metrics – Analyzing sales performance, warranty claims, and store rankings.
-✅ Correlation Analysis – Examining relationships between price and warranty claims.
-✅ Growth Trend Analysis – Computing year-over-year sales growth for each store.
-✅ Market Segmentation – Categorizing products based on pricing strategy.
-✅ Business Decision Support – Identifying best-selling and least-selling products.
-✅ Customer Behavior Analysis – Evaluating warranty claim patterns and trends.
-✅ Profitability Insights – Finding high-revenue stores and top-performing categories.
-✅ Query Optimization – Writing efficient queries for handling large datasets.
+
+✅ Data Extraction & Transformation – Writing complex SQL queries to extract meaningful insights.  
+
+✅ Advanced Joins – Using INNER JOIN, LEFT JOIN, RIGHT JOIN, and FULL JOIN for data integration.  
+
+✅ Aggregation & Grouping – Implementing GROUP BY, HAVING, and SUM() to summarize data.  
+
+✅ Window Functions – Utilizing RANK(), DENSE_RANK(), ROW_NUMBER(), LAG(), and LEAD().  
+
+✅ Date & Time Analysis – Applying EXTRACT(), TO_CHAR(), and INTERVAL for trend analysis.  
+
+✅ Performance Metrics – Analyzing sales performance, warranty claims, and store rankings.  
+
+✅ Correlation Analysis – Examining relationships between price and warranty claims.  
+
+✅ Growth Trend Analysis – Computing year-over-year sales growth for each store.  
+
+✅ Market Segmentation – Categorizing products based on pricing strategy.  
+
+✅ Business Decision Support – Identifying best-selling and least-selling products.  
+
+✅ Customer Behavior Analysis – Evaluating warranty claim patterns and trends.  
+
+✅ Profitability Insights – Finding high-revenue stores and top-performing categories.  
+
+✅ Query Optimization – Writing efficient queries for handling large datasets.  
+
 
 # 📌 Developed with SQL | Analyzing Real-World Data | Optimizing Business Decisions 🔥
 
