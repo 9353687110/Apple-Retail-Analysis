@@ -77,10 +77,15 @@ Your database includes the following entities and relationships based on your qu
 
 ## 🔥 Complex Questions
 ✔️ Determine the percentage chance of receiving warranty claims after each purchase for each country.
+
 ✔️ Analyze the year-by-year growth ratio for each store.
+
 ✔️ Calculate the correlation between product price and warranty claims for products sold in the last five years, segmented by price range.
+
 ✔️ Identify the store with the highest percentage of "Completed" claims relative to total claims filed.
+
 ✔️ Write a query to calculate the monthly running total of sales for each store over the past four years and compare trends during this period.
+
 
 ## 🏆 Skills Highlighted in This Project
 
