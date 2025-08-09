@@ -38,6 +38,8 @@ This dataset enables deep business analysis, helping to uncover sales trends, pr
 
 Your database includes the following entities and relationships based on your queries:
 
+ERD.png
+
 ## 📌 Entities & Attributes:
 
 📌 **Products** (product_id, product_name, category_id, price, launch_date)  
