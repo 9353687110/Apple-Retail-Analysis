@@ -116,7 +116,7 @@ Your database includes the following entities and relationships based on your qu
 ✅ Query Optimization – Writing efficient queries for handling large datasets.  
 
 
-# 📌 Developed with SQL | Analyzing Real-World Data | Optimizing Business Decisions 🔥
+#### 📌 Developed with SQL | Analyzing Real-World Data | Optimizing Business Decisions 🔥
 
 ## 🎯 Conclusion
 This project demonstrates the power of SQL for data-driven decision-making in a retail business environment. By analyzing over 1 million rows of sales and warranty data, we extracted key insights that help optimize sales, inventory, product quality, and customer service.
