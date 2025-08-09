@@ -38,6 +38,5 @@ This dataset enables deep business analysis, helping to uncover sales trends, pr
 
 Your database includes the following entities and relationships based on your queries:
 
----
-![C:\Users\hp\Downloads/pnf file](relative-or-absolute-path-to-image)
+
 
