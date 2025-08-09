@@ -25,4 +25,14 @@ This project analyzes Apple retail sales and warranty data to solve key business
 
 This project utilizes a large-scale Apple retail dataset containing over 1 million rows of sales, product, store, and warranty claim records. The dataset provides granular insights into sales performance, customer purchases, and product reliability across different regions.
 
+## 📌 Key Data Components:
+
+🔹 Sales Data – Contains transaction details, including product purchases, store locations, and sales dates.  
+🔹 Product Information – Includes product names, categories, launch dates, and pricing details.  
+🔹 Store Data – Covers store locations, country-wise performance, and regional sales trends.  
+🔹 Warranty Claims – Tracks product failures, claim filing dates, and repair statuses (e.g., paid repairs, replacements).  
+
+This dataset enables deep business analysis, helping to uncover sales trends, product performance issues, and customer service insights.
+
+
 
