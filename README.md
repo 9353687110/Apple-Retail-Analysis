@@ -21,3 +21,8 @@ This project analyzes Apple retail sales and warranty data to solve key business
 ✅ Product Quality & Warranty Insights – Detects high-claim products, early failures, and defect trends.  
 ✅ Customer Service Improvement – Analyzes warranty response times and repair costs to enhance service.  
 
+## 🗂 About the Data
+
+This project utilizes a large-scale Apple retail dataset containing over 1 million rows of sales, product, store, and warranty claim records. The dataset provides granular insights into sales performance, customer purchases, and product reliability across different regions.
+
+
