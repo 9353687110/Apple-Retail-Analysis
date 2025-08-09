@@ -1,3 +1,3 @@
-🍏 Apple Retail Sales & Warranty Analysis 📊
+## 🍏 Apple Retail Sales & Warranty Analysis 📊
 
 
